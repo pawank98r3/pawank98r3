@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @pawank
-- 👀 I’m interested in Azure data & Devops Engg
+- 👀 I’m interested in Rust and Python Programming
 - 🌱 I’m currently learning Rust,PHP
+- Fcussing on building great frontend websited\s
 - 💞️ I’m looking to collaborate on CI/CD Projects
+- 17 year old
   
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an avid Reader
