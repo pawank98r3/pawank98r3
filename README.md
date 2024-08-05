@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pawank
 - 👀 I’m interested in Rust and Python Programming
 - 🌱 I’m currently learning Rust,PHP
-- Fcussing on building great frontend websited\s
+- Fcussing on building great frontend websites
 - 💞️ I’m looking to collaborate on CI/CD Projects
 - Exploring and tinkering in tech
   
